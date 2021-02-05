@@ -1,5 +1,5 @@
 <hr>
-<img src="Credits to https://github.com/incredibllity who I straight up stole the format for you can find the fork in my repositories.">
+####Credits to https://github.com/incredibllity who I straight up stole the format for you can find the fork in my repositories.
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Stemmed&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
