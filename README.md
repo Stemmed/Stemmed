@@ -1,4 +1,7 @@
 <hr>
+Some people say my code is awful. I agree
+
+<hr>
 Credits to https://github.com/Escapies who I straight up stole the format for you can find the fork in my repositories.
 <hr>
 
