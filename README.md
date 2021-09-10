@@ -5,3 +5,4 @@
 <hr>
 <img src="https://img.shields.io/badge/If you need me message me on telegram @IgnPosh-darkblue.svg?&style=for-the-badge&logo=telegram&logoColor=white" href="RealestXaot">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"
