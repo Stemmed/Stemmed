@@ -1,6 +1,6 @@
 ##### Codes Awful
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=Stemmed&show_icons=true&theme=dark&hide_border=true" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stemmed&theme=blue-green" width="100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stemmed&langs_count=5&theme=dark"
 <hr>
 <img src="https://img.shields.io/badge/If you need me message me on telegram @IgnPosh-darkblue.svg?&style=for-the-badge&logo=telegram&logoColor=white" href="RealestXaot">
